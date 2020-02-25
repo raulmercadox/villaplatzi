@@ -1,0 +1,4 @@
+function aleatorio(min, max)
+{
+
+}
